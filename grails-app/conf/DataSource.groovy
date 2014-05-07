@@ -23,8 +23,8 @@ environments {
        dataSource {
           driverClassName = "com.mysql.jdbc.Driver"
           dialect = "org.hibernate.dialect.MySQL5InnoDBDialect"
-          username = "tadodbuser"
-          password = "tado12345"
+          username = "test"
+          password = "test"
           url = "jdbc:mysql://localhost/test?characterEncoding=UTF-8"
 
        }
